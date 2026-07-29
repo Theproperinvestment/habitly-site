@@ -1,2 +1,1 @@
-# habitly-site
-privacy policy
+
